@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_408175_my_custom_my_custom_app_table">x_408175_my_custom_my_custom_app_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MYC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-03 10:47:07</sys_created_on>
+        <sys_id>fc067a742f502010bba7de1a2799b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MYC</sys_name>
+        <sys_package display_value="My custom App" source="x_408175_my_custom">3d35fef02f502010bba7de1a2799b628</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My custom App">3d35fef02f502010bba7de1a2799b628</sys_scope>
+        <sys_update_name>sys_number_fc067a742f502010bba7de1a2799b6b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-03 10:47:07</sys_updated_on>
+    </sys_number>
+</record_update>
